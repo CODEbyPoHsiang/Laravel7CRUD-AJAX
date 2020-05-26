@@ -16,11 +16,11 @@ _Laravel AJAX CRUD Modal_ demo provides basic CRUD web application without page 
 ## 還原步驟
 1. CLONE 專案 :
 ```js
-   git clone https://github.com/CODEbyPoHsiang/Laravel7-CRUD-AJAX
+   git clone https://github.com/CODEbyPoHsiang/Laravel7CRUD-AJAX
 ```
 2. cd 進入專案資料夾
 ```
-  cd Laravel6-CRUD-AJAX
+  cd Laravel7CRUD-AJAX
 ```
 3. 更換env檔 
 ```
